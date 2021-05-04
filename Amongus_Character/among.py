@@ -95,5 +95,6 @@ def backpack():
 body()
 glass()
 backpack()
+t.hideturtle()
 
 t.screen.exitonclick()
