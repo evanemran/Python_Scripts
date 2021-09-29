@@ -32,6 +32,7 @@ b2 = Button(canvas, text="Save", bg = "white", command = saveFile)
 b2.pack(in_ = top, side=LEFT)
 
 b3 = Button(canvas, text="Clear", bg = "white", command = clearFile)
+
 b3.pack(in_ = top, side=LEFT)
 
 b4 = Button(canvas, text="Exit", bg = "white", command = exit)
